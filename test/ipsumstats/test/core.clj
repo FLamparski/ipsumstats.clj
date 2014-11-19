@@ -1,0 +1,6 @@
+(ns ipsumstats.test.core
+  (:use [ipsumstats.core])
+  (:use [clojure.test]))
+
+(deftest replace-me ;; FIXME: write
+  (is false "No tests have been written."))
