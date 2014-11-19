@@ -1,3 +1,7 @@
-(defproject ipsumstats "1.0.0-SNAPSHOT"
-  :description "FIXME: write description"
-  :dependencies [[org.clojure/clojure "1.3.0"]])
+(defproject ipsumstats "0.0.1"
+  :description "An app to compute some portal statistics about portals based on data collected with Ipsum"
+  :dependencies [
+                 [org.clojure/clojure "1.3.0"]
+                 [com.novemberain/monger "2.0.0"]
+                 ]
+  :main ipsumstats.core)

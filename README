@@ -1,13 +1,13 @@
 # ipsumstats
 
-FIXME: write description
+An app to compute some portal statistics about portals based on data collected with Ipsum
 
 ## Usage
 
-FIXME: write
+Don't even know myself yet
 
 ## License
 
-Copyright (C) 2014 FIXME
+Copyright (C) 2014 Filip Wieland
 
-Distributed under the Eclipse Public License, the same as Clojure.
+Licensed under the MIT license.
